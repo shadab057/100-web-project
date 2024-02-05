@@ -26,4 +26,5 @@ line-height: 28px;
 ::-webkit-scrollbar-thumb{
    background: linear-gradient(#52ACFF , #FFE32C);
    border-radius: 100px;
+ border: ;
 }

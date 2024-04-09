@@ -55,7 +55,7 @@
   
   .list-items:after {
     content: "";
-    background: crimson;
+    background: rgb(243, 231, 7);
     position: absolute;
     top: 2;
     left: 0;
